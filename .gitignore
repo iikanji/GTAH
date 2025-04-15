@@ -19,3 +19,10 @@ Thumbs.db
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+unity-reference/
+*.log
+*.zip
+*.tar.gz
+*.rar
+build/
